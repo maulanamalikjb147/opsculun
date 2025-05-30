@@ -2,7 +2,7 @@
 author: "Luqinthar Sudarsono"
 title: "About"
 date: 2024-01-09T03:16:56+07:00
-description: "Hallo mamanx"
+description: "Hallo mamang garong"
 ---
 
 Hello! I’m Luqinthar Sudarsono, a tech enthusiast passionate about Linux, cloud computing, and scripting.
