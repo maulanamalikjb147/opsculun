@@ -1,0 +1,127 @@
+baseURL: "https://blog.keyz.my.id"
+title: "Luqinthar Sudarsono"
+paginate: 5
+theme: PaperMod
+
+googleAnalytics: G-TL9KQK0XJ4
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableInlineShortcodes: true
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production
+  title: Luqinthar Sudarsono
+  description: "Nani Kore?"
+  keywords: [Blog, Portfolio, Technology, SysAdmin]
+  author: Me
+  images: "/images/profile.jpg"
+  defaultTheme: auto
+  disableThemeToggle: false
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  hidemeta: false
+  hideSummary: false
+  enableEmoji : true
+  assets:
+    disableHLJS: true
+    disableFingerprinting: true
+    favicon: "/images/favicon.ico"
+    favicon16x16: "/images/favicon.ico"
+    favicon32x32: "/images/favicon.ico"
+    apple_touch_icon: "/images/favicon.ico"
+    safari_pinned_tab: "/images/favicon.ico"
+
+  label:
+    text: "Home"
+    icon: "/images/favicon.ico"
+    iconHeight: 20
+
+  profileMode:
+      enabled: true
+      title: "Luqinthar Sudarsono"
+      subtitle: "いらっしゃいませ"
+      imageUrl: "/images/profile.webp"
+      imageTitle: "me"
+      imageWidth: 200
+      imageHeight: 200
+
+  homeInfoParams:
+    Title: "Luqinthar Sudarsono"
+    Content: "いらっしゃいませ"
+
+  socialIcons:
+    - name: email
+      url: "mailto:luqinthar@gmail.com"
+    - name: telegram
+      url: "https://t.me/usrlocalbin"
+    - name: instagram
+      url: "https://instagram.com/usrbin.rm.rf"
+    - name: credly
+      url: "https://www.credly.com/users/luqinthar-sudarsono"
+    - name: github
+      url: "https://github.com/Keyz078"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/luqinthar-sudarsono"
+
+  editPost:
+    URL: "https://github.com/Keyz078/blog/blob/main/content"
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content", "tags"]
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+menu:
+  main:
+    - identifier: About
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: Archives
+      name: Archives
+      url: /archives/
+      weight: 10
+    - identifier: Blogs
+      name: Blogs
+      url: /blogs/
+      weight: 10
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 10
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: nordic
+  goldmark:
+    renderer:
+      unsafe: true
