@@ -24,7 +24,7 @@ With a strong foundation in Python, Bash, and Ansible, I automate complex workfl
 Always staying up to date with the latest in cloud computing and containerization technologies, I am eager to share knowledge, collaborate on innovative projects, and solve real-world challenges.
 
 ### Career
-1. [PT Qeveria Technologies Indonesia](https://www.qeveria.co.id/), Freelance DevOps Engineer , September 2024 - March 2025
+1. [PT DansMultiPro](https://www.dansmultipro.com/), L2/L3 Application Support , September 2023 - Now
 Jobdesk: 
 - Setting up a Kubernetes (Vanilla) cluster on-premises
 - Configuring the infrastructure flow from public access to services in Kubernetes
@@ -34,7 +34,7 @@ Jobdesk:
 - Deploying and setting up a CI pipeline using Jenkins and CD using ArgoCD
 - Deploying and setting up Grafana monitoring to track node utilization and services in Kubernetes
 
-2. [PT DansMultiPro](https://www.dansmultipro.com/), L2/L3 Application Support , September 2023 - Now
+2. [PT Qeveria Technologies Indonesia](https://www.qeveria.co.id/), Freelance DevOps Engineer , September 2024 - March 2025
 Jobdesk: 
 - Setting up a Kubernetes (Vanilla) cluster on-premises
 - Configuring the infrastructure flow from public access to services in Kubernetes
