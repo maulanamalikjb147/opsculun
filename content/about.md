@@ -2,7 +2,7 @@
 author: "Maulana malik"
 title: "About"
 date: 2025-06-09T03:20:25+07:00
-description: "Hello there"
+description: "Hello mamang"
 ---
 
 Hello, I’m Maulana Malik Jabbar Budianto 🚀
