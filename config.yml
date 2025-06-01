@@ -41,15 +41,15 @@ params:
   assets:
     disableHLJS: true
     disableFingerprinting: true
-    favicon: "/images/favicon.ico"
-    favicon16x16: "/images/favicon.ico"
-    favicon32x32: "/images/favicon.ico"
-    apple_touch_icon: "/images/favicon.ico"
-    safari_pinned_tab: "/images/favicon.ico"
+    favicon: "https://blog.maulanamalik.my.id/images/favicon.ico"
+    favicon16x16: "https://blog.maulanamalik.my.id/images/favicon.ico"
+    favicon32x32: "https://blog.maulanamalik.my.id/images/favicon.ico"
+    apple_touch_icon: "https://blog.maulanamalik.my.id/images/favicon.ico"
+    safari_pinned_tab: "https://blog.maulanamalik.my.id/images/favicon.ico"
 
   label:
     text: "Home"
-    icon: "/images/favicon.ico"
+    icon: "https://blog.maulanamalik.my.id/images/favicon.ico"
     iconHeight: 20
 
   profileMode:
