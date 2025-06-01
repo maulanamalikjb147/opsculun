@@ -19,7 +19,7 @@ minify:
 params:
   env: production
   title: Maulana malik jabbar budianto
-  description: "NHello there"
+  description: "Hello there"
   keywords: [Blog, Portfolio, Technology, SysAdmin]
   author: Me
   images: ["/images/opsculun.png"]  # Ganti jadi array, agar tidak error saat dirender
@@ -42,10 +42,10 @@ params:
     disableHLJS: true
     disableFingerprinting: true
     favicon: "/images/favicon.ico"
-    favicon16x16: "/images/favicon-16x16.png"
-    favicon32x32: "/images/favicon-32x32.png"
-    apple_touch_icon: "/images/apple-touch-icon.png"
-    safari_pinned_tab: "/images/apple-touch-icon.png"
+    favicon16x16: "/images/favicon.ico"
+    favicon32x32: "/images/favicon.ico"
+    apple_touch_icon: "/images/favicon.ico"
+    safari_pinned_tab: "/images/favicon.ico"
 
   label:
     text: "Home"
