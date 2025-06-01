@@ -56,6 +56,7 @@ params:
     enabled: true
     title: "Maulana malik jabbar budianto"
     subtitle: "Opsculun"
+    subtitle2: "From zero to hero"
     imageUrl: "/images/opsculun.png"
     imageTitle: "me"
     imageWidth: 200
