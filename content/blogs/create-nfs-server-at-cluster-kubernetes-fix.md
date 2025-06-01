@@ -255,4 +255,4 @@ cat /data/nfs1/default-sc-nfs-pvc*/hello.html
 
 <p style="text-align: center"><img src="/images/1_8ZJMYijwQrXYSkVr2rU_SQ.webp"></p>
 
-Mohon maaf apabila ada kalimat yang susah dipaham / kurang mengerti / terlalu berbelit2 , sekian ges chersss.
+Mohon maaf apabila ada kalimat yang susah dipaham / kurang mengerti / terlalu berbelit2 , sekian ges chersss 🍻.
