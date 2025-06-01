@@ -19,7 +19,7 @@ minify:
 params:
   env: production
   title: Maulana malik jabbar budianto
-  description: "Nani Kore?"
+  description: "NHello there"
   keywords: [Blog, Portfolio, Technology, SysAdmin]
   author: Me
   images: ["/images/opsculun.png"]  # Ganti jadi array, agar tidak error saat dirender
