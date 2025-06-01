@@ -1,7 +1,7 @@
 ---
 author: "Maulana malik"
 title: "About"
-date: 2024-01-09T03:16:56+07:00
+date: 2025-06-09T03:20:25+07:00
 description: "Hello mamang"
 ---
 
@@ -17,7 +17,7 @@ I specialize in managing Kubernetes clusters on AWS, configuring CI/CD pipelines
 
 🔧 Scripting & Automation
 
-With a strong foundation in Python, Bash, and Ansible, I automate complex workflows and monitor infrastructures, providing reliable solutions that keep systems running smoothly.
+With a strong foundation in Python, and Bash, I automate complex workflows and monitor infrastructures, providing reliable solutions that keep systems running smoothly.
 
 🌱 Continuous Learning & Innovation
 
