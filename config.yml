@@ -22,7 +22,7 @@ params:
   description: "Nani Kore?"
   keywords: [Blog, Portfolio, Technology, SysAdmin]
   author: Me
-  images: ["/images/profile.jpg"]  # Ganti jadi array, agar tidak error saat dirender
+  images: ["/images/opsculun.png"]  # Ganti jadi array, agar tidak error saat dirender
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -56,7 +56,7 @@ params:
     enabled: true
     title: "Maulana malik jabbar budianto"
     subtitle: "Opsculun"
-    imageUrl: "/images/profile.webp"
+    imageUrl: "/images/opsculun.png"
     imageTitle: "me"
     imageWidth: 200
     imageHeight: 200
@@ -80,7 +80,7 @@ params:
       url: "https://www.linkedin.com/in/maulana-malik-jabbar-budianto-a15225234"
 
   editPost:
-    URL: "https://github.com/Keyz078/blog/blob/main/content"
+    URL: "https://github.com/maulanamalikjb147/opsculun/tree/main/content"
     Text: "Suggest Changes"
     appendFilePath: true
 
