@@ -1,7 +1,7 @@
 ---
 author: "Maulana malik"
 title: "About"
-date: 2025-06-09T03:20:25+07:00
+date: 2024-01-09T03:16:56+07:00
 description: "Hello There"
 ---
 
