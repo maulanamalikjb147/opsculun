@@ -2,7 +2,7 @@
 author: "Maulana malik"
 title: "About"
 date: 2024-01-09T03:16:56+07:00
-description: "Hello mamanx garong"
+description: "Hello mamang"
 ---
 
 Hello! I’m Maulana malik, a tech enthusiast passionate about Linux, cloud computing, and scripting.
