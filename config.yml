@@ -1,6 +1,8 @@
 baseURL: "https://blog.maulanamalik.my.id"
 title: "Maulana malik jabbar budianto"
-paginate: 5
+pagination:
+  pagerSize: 5  # Ganti paginate: 5 → sudah deprecated
+
 theme: PaperMod
 
 googleAnalytics: G-E7YCFT5WXN
@@ -20,7 +22,7 @@ params:
   description: "Nani Kore?"
   keywords: [Blog, Portfolio, Technology, SysAdmin]
   author: Me
-  images: "/images/profile.jpg"
+  images: ["/images/profile.jpg"]  # Ganti jadi array, agar tidak error saat dirender
   defaultTheme: auto
   disableThemeToggle: false
   ShowReadingTime: true
@@ -34,7 +36,8 @@ params:
   disableScrollToTop: false
   hidemeta: false
   hideSummary: false
-  enableEmoji : true
+  enableEmoji: true
+  disableOpenGraph: false  # opsional, ganti ke true jika ingin menonaktifkan fitur OG (untuk mencegah error)
   assets:
     disableHLJS: true
     disableFingerprinting: true
@@ -50,13 +53,13 @@ params:
     iconHeight: 20
 
   profileMode:
-      enabled: true
-      title: "Maulana malik jabbar budianto"
-      subtitle: "いらっしゃいませ"
-      imageUrl: "/images/profile.webp"
-      imageTitle: "me"
-      imageWidth: 200
-      imageHeight: 200
+    enabled: true
+    title: "Maulana malik jabbar budianto"
+    subtitle: "いらっしゃいませ"
+    imageUrl: "/images/profile.webp"
+    imageTitle: "me"
+    imageWidth: 200
+    imageHeight: 200
 
   homeInfoParams:
     Title: "Maulana malik jabbar budianto"
@@ -94,7 +97,7 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON # is necessary
+    - JSON
 
 menu:
   main:
@@ -116,6 +119,7 @@ menu:
       weight: 10
 
 pygmentsUseClasses: true
+
 markup:
   highlight:
     codeFences: true
