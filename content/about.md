@@ -5,7 +5,7 @@ date: 2024-01-09T03:16:56+07:00
 description: "Hello mamanx"
 ---
 
-Hello! I’m Luqinthar Sudarsono, a tech enthusiast passionate about Linux, cloud computing, and scripting.
+Hello! I’m Maulana malik, a tech enthusiast passionate about Linux, cloud computing, and scripting.
 
 🖥️ Linux is my favorite workspace—its flexibility, command-line power, and open-source community inspire me every day.
 

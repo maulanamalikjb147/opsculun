@@ -55,7 +55,7 @@ params:
   profileMode:
     enabled: true
     title: "Maulana malik jabbar budianto"
-    subtitle: "いらっしゃいませ"
+    subtitle: "Opsculun"
     imageUrl: "/images/profile.webp"
     imageTitle: "me"
     imageWidth: 200
@@ -63,21 +63,21 @@ params:
 
   homeInfoParams:
     Title: "Maulana malik jabbar budianto"
-    Content: "いらっしゃいませ"
+    Content: "Opsculun"
 
   socialIcons:
     - name: email
-      url: "mailto:luqinthar@gmail.com"
+      url: "mailto:maulanamalikjb147@gmail.com"
     - name: telegram
-      url: "https://t.me/usrlocalbin"
+      url: "https://t.me/maulanamalikjb"
     - name: instagram
-      url: "https://instagram.com/usrbin.rm.rf"
+      url: "https://instagram.com/lana.maulanaaaa"
     - name: credly
-      url: "https://www.credly.com/users/luqinthar-sudarsono"
-    - name: github
-      url: "https://github.com/Keyz078"
+      url: "https://www.credly.com/users/maulanamalik-jabbarbudianto"
+    - name: Medium
+      url: "https://medium.com/@maulanamalikjb147"
     - name: linkedin
-      url: "https://www.linkedin.com/in/luqinthar-sudarsono"
+      url: "https://www.linkedin.com/in/maulana-malik-jabbar-budianto-a15225234"
 
   editPost:
     URL: "https://github.com/Keyz078/blog/blob/main/content"
