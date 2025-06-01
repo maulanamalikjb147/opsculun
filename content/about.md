@@ -5,24 +5,63 @@ date: 2024-01-09T03:16:56+07:00
 description: "Hello mamang"
 ---
 
-Hello! I’m Maulana malik, a tech enthusiast passionate about Linux, cloud computing, and scripting.
+Hello, I’m Maulana Malik Jabbar Budianto 🚀
 
-🖥️ Linux is my favorite workspace—its flexibility, command-line power, and open-source community inspire me every day.
+🖥️ DevOps Engineer & Cloud Enthusiast
 
-☁️ In cloud computing, I explore scalable solutions and optimize infrastructure to solve real-world challenges.
+As a DevOps engineer, I am deeply passionate about automating and optimizing systems in the cloud. I thrive in environments where scalability and high availability are paramount, utilizing cutting-edge tools to drive efficiency.
 
-✍️ With scripting (Bash & Python), I automate tasks and streamline workflows for better efficiency.
+☁️ Cloud & Kubernetes Expertise
 
-Let’s connect, share knowledge, and grow together on this exciting tech journey!
+I specialize in managing Kubernetes clusters on AWS, configuring CI/CD pipelines with tools like FluxCD, Jenkins, and ArgoCD, and deploying solutions that ensure seamless integration and delivery.
 
-Luqinthar Sudarsono 🚀
+🔧 Scripting & Automation
+
+With a strong foundation in Python, Bash, and Ansible, I automate complex workflows and monitor infrastructures, providing reliable solutions that keep systems running smoothly.
+
+🌱 Continuous Learning & Innovation
+
+Always staying up to date with the latest in cloud computing and containerization technologies, I am eager to share knowledge, collaborate on innovative projects, and solve real-world challenges.
 
 ### Career
+1. [PT Qeveria Technologies Indonesia](https://www.qeveria.co.id/), Freelance DevOps Engineer , September 2024 - March 2025
+Jobdesk: 
+- Setting up a Kubernetes (Vanilla) cluster on-premises
+- Configuring the infrastructure flow from public access to services in Kubernetes
+- Deploying API Gateway using Kong
+- Managing APIs per service
+- Implementing CI/CD in the Kubernetes cluster
+- Deploying and setting up a CI pipeline using Jenkins and CD using ArgoCD
+- Deploying and setting up Grafana monitoring to track node utilization and services in Kubernetes
 
-1. [PT Bonet Utama](https://bonet.co.id), Network Engineer (Internship), May 2017 - June 2017
-2. [PT Boer Technology](https://btech.id), Cloud Engineer, Jan 2022 - Now
+2. [PT DansMultiPro](https://www.dansmultipro.com/), L2/L3 Application Support , September 2023 - Now
+Jobdesk: 
+- Setting up a Kubernetes (Vanilla) cluster on-premises
+- Configuring the infrastructure flow from public access to services in Kubernetes
+- Deploying API Gateway using Kong
+- Managing APIs per service
+- Implementing CI/CD in the Kubernetes cluster
+- Deploying and setting up a CI pipeline using Jenkins and CD using ArgoCD
+- Deploying and setting up Grafana monitoring to track node utilization and services in Kubernetes
 
-### Certificates
+3. [PT Boer Technology](https://btech.id), Cloud Engineer, August 2022 - September 2023
+Jobdesk :
+Kubernetes
+- Managed Kubernetes clusters.
+- Created monitoring needs using Prometheus, Grafana, Victoria Metrics, and Victoria Logs.
+- Monitored container/pod and instance resources.
+- Monitored traffic on ingress and instance sides.
+- Monitored cluster health checks.
+- Created Kubernetes clusters using kubectl, kubeadm, and kubelet with HA (High Availability) topology.
+- Provided user needs such as deploying ingress controllers, setting up NodeLocalDNS, setting up cache Coredns, and other dependencies.
+- Created private registries like Nexus, Harbor, etc.
+- Researched tools for cluster or other needs.
+- Troubleshot clusters when abnormality occurred.
+- Observed abnormality from the cluster side.
 
-1. [CCNA: Switching, Routing, and Wireless Essentials](https://www.credly.com/badges/41dc68a5-bd31-48f7-aca3-ce1029a70847/public_url)
-2. [LFCS: Linux Foundation Certified Linux Administrator](https://www.credly.com/badges/e33f1ce0-d447-4386-be57-f11665bdca73/public_url)
+Openstack
+- Set up Security Groups when needed for clusters.
+- Created instances according to client requests.
+- Live migrated instances when compute issues occurred.
+- Observed abnormality from the instance side.
+- Installed applications required for cluster needs.

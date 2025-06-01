@@ -41,15 +41,15 @@ params:
   assets:
     disableHLJS: true
     disableFingerprinting: true
-    favicon: "/images/favicon.ico"
-    favicon16x16: "/images/favicon.ico"
-    favicon32x32: "/images/favicon.ico"
-    apple_touch_icon: "/images/favicon.ico"
-    safari_pinned_tab: "/images/favicon.ico"
+    favicon: "/static/images/favicon.ico"
+    favicon16x16: "/static/images/favicon.ico"
+    favicon32x32: "/static/images/favicon.ico"
+    apple_touch_icon: "/static/images/favicon.ico"
+    safari_pinned_tab: "/static/images/favicon.ico"
 
   label:
     text: "Home"
-    icon: "/images/favicon.ico"
+    icon: "/static/images/favicon.ico"
     iconHeight: 20
 
   profileMode:
