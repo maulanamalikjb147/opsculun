@@ -3,6 +3,8 @@ author: Maulana malik jabbar budianto
 title: DR Traffic Kubernetes
 description: DR Kubernetes
 date: 2025-06-02T20:02:00+07:00
+cover:
+  image: /images/1_a8o1XeUTVmYTxhbkfUWWNA.webp
 showToc: true
 tocopen: false
 tags:
