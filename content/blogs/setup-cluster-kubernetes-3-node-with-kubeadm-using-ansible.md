@@ -8,11 +8,11 @@ tocopen: false
 
 # Environment
 
-| hostname | ip  | os  | ansible version | virtualization | kubernetes version | containerd version |
-| --- | --- | --- | --- | --- | --- | --- |
-| ops-master | 10.10.10.60 | 20.04.6 LTS (Focal Fossa) | 2.12.10 | kvm | v1.29.15 | containerd://1.7.24 |
-| ops-worker-1 | 10.10.10.61 | 20.04.6 LTS (Focal Fossa) | \-  | kvm | v1.29.15 | containerd://1.7.24 |
-| ops-worker-2 | 10.10.10.62 | 20.04.6 LTS (Focal Fossa) | \-  | kvm | v1.29.15 | containerd://1.7.24 |
+| hostname | ip  | os  | nginx version | virtualization | note |
+| --- | --- | --- | --- | --- | --- |
+| ops-master | 10.10.10.60 | 20.04.6 LTS (Focal Fossa) | nginx version: nginx/1.18.0 (Ubuntu) | kvm | Loadbalancer & client servers |
+| ops-worker-1 | 10.10.10.61 | 20.04.6 LTS (Focal Fossa) | nginx version: nginx/1.18.0 (Ubuntu) | kvm | client servers |
+| ops-worker-2 | 10.10.10.62 | 20.04.6 LTS (Focal Fossa) | nginx version: nginx/1.18.0 (Ubuntu) | kvm | client servers |
 
 ## Setup ssh
 
